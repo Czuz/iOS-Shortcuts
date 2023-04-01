@@ -12,8 +12,7 @@ Skrót wykorzystuje poniższe uprawnienia:
 
 ## Instalacja
 Instalacja następuje poprzez otwarcie jednego z poniższych adresów w urządzeniu z zainstalowaną aplikacją Skróty:
-* https://www.icloud.com/shortcuts/d8501121d0d2494480c478dacc38d09d lub 
-* https://github.com/Czuz/iOS-Shortcuts/raw/main/PL-ostrzezenie_o_opadach/Ostrzez%CC%87enie%20o%20opadach.shortcut
+* https://www.icloud.com/shortcuts/d8501121d0d2494480c478dacc38d09d
 
 Wersja dla starszych wersji iOS (do 15 włącznie):
 * https://www.icloud.com/shortcuts/6b693e98a1594ee69d998ca1e9d35a3c
