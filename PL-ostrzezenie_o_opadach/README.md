@@ -11,8 +11,12 @@ Skrót wykorzystuje poniższe uprawnienia:
 **Uwaga**: istnieje możliwość zmiany skryptu, by zamiast pogody dla bieżącej lokalizacji sprawdzał pogodę w ustalonym miejscu. W przypadku wprowadzenia tej zmiany, uprawnienia lokalizacji nie będą wymagane.
 
 ## Instalacja
-Instalacja następuje poprzez otwarcie poniższego adresu w urządzeniu z zainstalowaną aplikacją Skróty:
-https://www.icloud.com/shortcuts/6b693e98a1594ee69d998ca1e9d35a3c
+Instalacja następuje poprzez otwarcie jednego z poniższych adresów w urządzeniu z zainstalowaną aplikacją Skróty:
+* https://www.icloud.com/shortcuts/d8501121d0d2494480c478dacc38d09d lub 
+* https://github.com/Czuz/iOS-Shortcuts/raw/main/PL-ostrzezenie_o_opadach/Ostrzez%CC%87enie%20o%20opadach.shortcut
+
+Wersja dla starszych wersji iOS (do 15 włącznie):
+* https://www.icloud.com/shortcuts/6b693e98a1594ee69d998ca1e9d35a3c
 
 Aplikacja wyświetli całość kodu do weryfikacji i poprosi o potwierdzenie chęci instalacji.
 
